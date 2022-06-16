@@ -1,0 +1,4 @@
+node_modules
+*.sketchplugin
+resources/components
+resources/hooks
